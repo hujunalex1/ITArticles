@@ -1,3 +1,6 @@
+---
+style: candy
+---
 # windows 上好用的软件
 
 ### 系统工具
@@ -10,13 +13,16 @@
 * RocketDock 仿mac dock  [下载页面 Download Page](https://rocketdock.com/)
 * Geek uninstal 卸载工具 [下载页面 Download Page](https://www.geekuninstaller.com/download)
 *  Vox  快速搜索系统软件 
+* Dism++ Windows 系统优化应用中的瑞士军刀[下载页面](https://www.chuyu.me/zh-Hans/)
 
-###笔记文档
+### 笔记文档
 * Evernote 印象笔记 [下载页面 Download Page](https://www.yinxiang.com/download/)
 * 石墨文档 [下载页面 Download Page](https://shimo.im/)
 * Google docs 
 * 有道云笔记 [下载页面 Download Page](http://note.youdao.com/)
 * Simplenote  [下载页面 Download Page](https://simplenote.com/)
+* Yu Writer 一款能找到写作乐趣的 Markdown 文本编辑器[下载页面](https://ivarptr.github.io/yu-writer.site/download.html)
+* iSlide PowerPoint 插件 [下载页面](https://www.islide.cc/download)
 
 ### 手机管理
 * Itools [下载页面 Download Page](http://www.itools.cn/)
@@ -29,12 +35,14 @@
 * Cent Browser [下载页面 Download Page](https://www.centbrowser.com/)
 * Vivaldi [下载页面 Download Page](https://vivaldi.com)
 
-###开发工具 
+### 开发工具 
 * jetBrains Pycharm  IDE [下载页面 Download Page](http://www.jetbrains.com/pycharm/)
 * Fiddler 网络抓包 [下载页面 Download Page](http://www.telerik.com/fiddler)
 * Charles 网络抓包 [下载页面 Download Page](https://www.charlesproxy.com/)
 * cmder  [下载页面 Download Page](http://cmder.net/)
 * Sublime Text3  [下载页面 Download Page](http://www.sublimetext.com/3)
 * Atom  [下载页面 Download Page](https://github.com/atom/atom/releases)
+* babun Windows Shell [下载页面](http://babun.github.io/)
+
 ### vpn 
 * shadosocks  [下载页面 Download Page](https://www.shadowshocks.org/)

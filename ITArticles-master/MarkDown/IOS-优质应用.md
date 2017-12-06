@@ -1,5 +1,11 @@
+---
+style: candy
+---
 
 # IOS-优质应用
+
+@(优秀文章)
+
 
 ![IOS10](http://p9.pstatp.com/large/20800004ebf5bdbb7b7d)
 ### 壁纸应用
@@ -12,7 +18,7 @@
 * 滴答清单 [点击下载](https://itunes.apple.com/app/id626144601?at=1001lsTF&ct=iOS_detail_copy_626144601)
 * Microsoft To-Do [点击下载](https://itunes.apple.com/app/id1212616790?at=1001lsTF&ct=iOS_list_copy_1212616790)
 * Everlist - task manager [点击下载](https://itunes.apple.com/cn/app/everlist-task-manager/id1066258250?mt=8&ign-mpt=uo%3D4)
-
+* **Doo - Get Things Done** [点击下载](https://itunes.apple.com/cn/app/doo-get-things-done/id1066322956?l=en&mt=8) 
 ### VPN
 * Shadowrocket -vpn [点击下载](https://itunes.apple.com/app/id932747118?at=1001lsTF&ct=iOS_detail_copy_932747118)
 * Shadowsocks Wingy [点击下载](https://itunes.apple.com/app/id1148026741?at=1001lsTF&ct=iOS_detail_copy_1148026741)
