@@ -12,7 +12,7 @@ style: candy
 * RocketDock 仿mac dock  [下载页面 Download Page](https://rocketdock.com/)
 * Geek uninstal 卸载工具 [下载页面 Download Page](https://www.geekuninstaller.com/download)
 *  Vox  快速搜索系统软件 
-* Dism++ Windows 系统优化应用中的瑞士军刀[下载页面](https://www.chuyu.me/zh-Hans/)
+* Dism++ Windows 系统优化应用中的瑞士军刀[下载页面 Download Page](https://www.chuyu.me/zh-Hans/)
 
 ### 笔记文档
 * Evernote 印象笔记 [下载页面 Download Page](https://www.yinxiang.com/download/)
@@ -47,5 +47,5 @@ style: candy
 * shadosocks  [下载页面 Download Page](https://www.shadowshocks.org/)
 
 ### 视频影音 
-* PotPlayer 简洁强大好用[下载页面](http://www.potplayer.org/)
+* PotPlayer 简洁强大好用[下载页面 Download Page](http://www.potplayer.org/)
 * 5kplayer 播放器 支持Airplay [下载页面 Download Page](https://www.5kplayer.com/)
