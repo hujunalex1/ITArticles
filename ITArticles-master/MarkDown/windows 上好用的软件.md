@@ -46,3 +46,6 @@ style: candy
 
 ### vpn 
 * shadosocks  [下载页面 Download Page](https://www.shadowshocks.org/)
+
+### 视频影音 
+* PotPlayer [下载页面](http://www.potplayer.org/)
